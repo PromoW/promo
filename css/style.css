@@ -191,6 +191,10 @@
       line-height: 155%;
   }
 
+  .ventas1 {
+    text-align: center;
+  }
+
   @media screen and (max-width: 768px) {
     p {
       font-size: 130%;
