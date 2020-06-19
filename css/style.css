@@ -191,6 +191,10 @@
       line-height: 155%;
   }
 
+  .venta1 {
+      text-align: center;
+  }
+
   @media screen and (max-width: 768px) {
     p {
       font-size: 130%;
@@ -275,3 +279,7 @@
     }
   
   }
+
+
+
+  
